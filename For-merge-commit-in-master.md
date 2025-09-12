@@ -1,0 +1,1 @@
+Test merge-commit in master branch.
